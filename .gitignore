@@ -1,0 +1,6 @@
+# Never commit Taiga credentials
+.taiga-mcp.json
+**/.taiga-mcp.json
+.env
+*.log
+.DS_Store

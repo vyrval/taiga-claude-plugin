@@ -1,0 +1,15 @@
+{
+  "name": "taiga-marketplace",
+  "owner": {
+    "name": "alex"
+  },
+  "plugins": [
+    {
+      "name": "taiga-connector",
+      "source": "./taiga-connector",
+      "description": "Connect Claude to Taiga: browse projects, create/update/delete user stories, tasks and epics",
+      "version": "0.2.0",
+      "keywords": ["taiga", "project-management", "agile", "kanban", "scrum"]
+    }
+  ]
+}

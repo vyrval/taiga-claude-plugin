@@ -1,0 +1,9 @@
+{
+  "name": "taiga-connector",
+  "version": "0.2.0",
+  "description": "Connect Claude to Taiga: browse projects, create and manage user stories, tasks and epics",
+  "author": {
+    "name": "alex"
+  },
+  "keywords": ["taiga", "project-management", "agile", "kanban", "scrum"]
+}
